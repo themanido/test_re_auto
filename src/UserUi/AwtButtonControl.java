@@ -31,6 +31,7 @@ public class AwtButtonControl {
 	
 	private void prepareGUI(){
 		// Frame에 대한 셋팅
+		
 		int x = 500 ;
 		int y = 300 ;
 		
